@@ -57,7 +57,7 @@ calculated from full order history per customer.
 
 
 **LTV:CAC ratio:**
-no channel clears the commonly-cited healthy 3:1 threshold — ratios range from 1.75 (TikTok) to 2.13 (Affiliate). The core device is high-ticket but mostly a one-time purchase, and repeat-purchase probability on it is low, so most customers' lifetime revenue is dominated by their first order rather than compounding through repeat purchases. The takeaway: current CAC spend is only marginally justified by LTV across every channel - improving the ratio would require either higher repeat/accessory purchase rates or stronger unit economics on the device itself, not just cheaper acquisition.
+no channel clears the commonly-cited healthy 3:1 threshold - ratios range from 1.75 (TikTok) to 2.13 (Affiliate). The core device is high-ticket but mostly a one-time purchase, and repeat-purchase probability on it is low, so most customers' lifetime revenue is dominated by their first order rather than compounding through repeat purchases. The takeaway: current CAC spend is only marginally justified by LTV across every channel - improving the ratio would require either higher repeat/accessory purchase rates or stronger unit economics on the device itself, not just cheaper acquisition.
 
 
 <img width="606" height="178" alt="image" src="https://github.com/user-attachments/assets/307f7ea1-158d-45dd-a7ae-1467feeabef7" />
