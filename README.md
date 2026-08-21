@@ -35,6 +35,10 @@ largest gap between raw and refund-adjusted CAC of any channel, meaning its
 headline cost-per-customer understates how many of those customers don't
 actually stick.
 
+<img width="702" height="187" alt="image" src="https://github.com/user-attachments/assets/d446b266-6452-487a-bc1e-43916b4c663f" />
+
+
+
 **Retention:** Month-1 repeat-purchase rate holds fairly steady around 15–21%
 across cohorts. The two most recent cohorts show artificially low retention in
 later months — not a real decline, just incomplete data, since those customers
