@@ -50,6 +50,9 @@ haven't had enough elapsed time to repeat yet (right-censoring).
 
 **LTV by channel:** average revenue per customer varies by acquisition channel,
 calculated from full order history per customer.
+<img width="368" height="183" alt="image" src="https://github.com/user-attachments/assets/5ea909e1-974a-407b-b043-39943f5e61b9" />
+
+
 
 **Payback period:** in progress — cumulative contribution margin per customer,
 by channel, compared against that channel's CAC to find the break-even month.
