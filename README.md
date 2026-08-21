@@ -47,6 +47,9 @@ actually stick.
 across cohorts. The two most recent cohorts show artificially low retention in
 later months - not a real decline, just incomplete data, since those customers
 haven't had enough elapsed time to repeat yet (right-censoring).
+<img width="1112" height="262" alt="image" src="https://github.com/user-attachments/assets/19506aaa-0c45-4544-bd49-6632113e4c50" />
+
+
 
 **LTV by channel:** average revenue per customer varies by acquisition channel,
 calculated from full order history per customer.
