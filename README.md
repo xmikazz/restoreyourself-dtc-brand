@@ -37,7 +37,7 @@ largest gap between raw and refund-adjusted CAC of any channel, meaning its
 headline cost-per-customer understates how many of those customers don't
 actually stick.
 
-*Note: new_customer_count excludes all customers who refunded*
+***Note: new_customer_count excludes all customers who refunded***
 <img width="1132" height="182" alt="image" src="https://github.com/user-attachments/assets/cad0f6b2-0771-4419-ae0d-8a6ac6277cc6" />
 
 
