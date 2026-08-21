@@ -56,6 +56,10 @@ calculated from full order history per customer.
 <img width="368" height="183" alt="image" src="https://github.com/user-attachments/assets/5ea909e1-974a-407b-b043-39943f5e61b9" />
 
 
+**LTV:CAC ratio**
+<img width="606" height="178" alt="image" src="https://github.com/user-attachments/assets/307f7ea1-158d-45dd-a7ae-1467feeabef7" />
+
+
 
 **Payback period:** in progress — cumulative contribution margin per customer,
 by channel, compared against that channel's CAC to find the break-even month.
