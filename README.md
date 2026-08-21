@@ -22,6 +22,8 @@ for itself.
 
 **Red Light Face Mask leads in terms of total revenue**
 
+Note: new_customer_count excludes all customers who refunded
+
 <img width="602" height="211" alt="image" src="https://github.com/user-attachments/assets/8c6e34ec-381c-4b55-af61-53b2370293af" />
 
 
