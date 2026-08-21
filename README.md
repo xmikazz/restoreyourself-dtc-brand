@@ -20,6 +20,13 @@ for itself.
 
 ## Findings
 
+**Red Light Face Mask leads in terms of total revenue**
+
+<img width="602" height="211" alt="image" src="https://github.com/user-attachments/assets/8c6e34ec-381c-4b55-af61-53b2370293af" />
+
+
+
+
 **CAC by channel:** Affiliate is the cheapest channel to acquire customers
 through and stays cheapest after adjusting for refunds. Meta and Google look
 almost identical on raw CAC, but that's misleading — once refunded first-time
