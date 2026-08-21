@@ -29,19 +29,20 @@ for itself.
 
 **CAC by channel:** Affiliate is the cheapest channel to acquire customers
 through and stays cheapest after adjusting for refunds. Meta and Google look
-almost identical on raw CAC, but that's misleading — once refunded first-time
+almost identical on raw CAC, but that's misleading - once refunded first-time
 customers are excluded, Google is meaningfully cheaper than Meta. Meta has the
 largest gap between raw and refund-adjusted CAC of any channel, meaning its
 headline cost-per-customer understates how many of those customers don't
 actually stick.
 
-<img width="702" height="187" alt="image" src="https://github.com/user-attachments/assets/d446b266-6452-487a-bc1e-43916b4c663f" />
+<img width="1132" height="182" alt="image" src="https://github.com/user-attachments/assets/cad0f6b2-0771-4419-ae0d-8a6ac6277cc6" />
+
 
 
 
 **Retention:** Month-1 repeat-purchase rate holds fairly steady around 15–21%
 across cohorts. The two most recent cohorts show artificially low retention in
-later months — not a real decline, just incomplete data, since those customers
+later months - not a real decline, just incomplete data, since those customers
 haven't had enough elapsed time to repeat yet (right-censoring).
 
 **LTV by channel:** average revenue per customer varies by acquisition channel,
