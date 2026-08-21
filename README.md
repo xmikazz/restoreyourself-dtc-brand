@@ -1,3 +1,5 @@
+# RestoreYourself: DTC Growth Analysis
+
 A SQL project analyzing customer acquisition, retention, and profitability for
 **RestoreYourself**, a fictional direct-to-consumer beauty/wellness brand selling
 a hair-regrowth device plus repeat-purchase accessories (serum, replacement pads,
