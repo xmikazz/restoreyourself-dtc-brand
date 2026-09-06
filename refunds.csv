@@ -1,0 +1,288 @@
+refund_id,order_id,refund_date,refund_amount,reason
+1,4,2026-05-03,495.0,Defective unit
+2,9,2026-06-22,495.0,No results
+3,26,2026-07-09,29.5,Shipping damage
+4,28,2026-04-22,59.0,Changed mind
+5,37,2026-05-25,210.38,Shipping damage
+6,43,2026-07-11,59.0,Defective unit
+7,105,2026-05-21,495.0,Changed mind
+8,108,2026-04-11,495.0,Ordered by mistake
+9,114,2026-07-16,495.0,Defective unit
+10,116,2026-02-04,495.0,Shipping damage
+11,118,2026-02-13,211.65,Ordered by mistake
+12,153,2026-07-31,495.0,No results
+13,168,2026-04-04,445.5,Ordered by mistake
+14,201,2026-05-19,495.0,Changed mind
+15,265,2026-05-09,495.0,Changed mind
+16,268,2026-07-26,59.0,Defective unit
+17,287,2026-06-29,495.0,Shipping damage
+18,290,2026-04-15,247.5,Shipping damage
+19,292,2026-04-13,498.0,Ordered by mistake
+20,295,2026-05-18,495.0,Ordered by mistake
+21,314,2026-04-18,420.75,Shipping damage
+22,346,2026-06-03,495.0,Ordered by mistake
+23,356,2026-03-08,59.0,Ordered by mistake
+24,386,2026-05-17,495.0,Shipping damage
+25,389,2026-05-09,495.0,Changed mind
+26,390,2026-05-27,53.1,Defective unit
+27,424,2026-04-03,249.0,Defective unit
+28,428,2026-07-25,495.0,Ordered by mistake
+29,432,2026-05-10,445.5,No results
+30,435,2026-06-15,26.55,Shipping damage
+31,458,2026-04-01,247.5,Defective unit
+32,483,2026-06-13,198.0,Ordered by mistake
+33,488,2026-06-12,495.0,Defective unit
+34,500,2026-06-01,495.0,Ordered by mistake
+35,511,2026-05-09,59.0,Shipping damage
+36,519,2026-07-07,124.5,Defective unit
+37,538,2026-07-05,224.1,Ordered by mistake
+38,542,2026-07-12,39.0,Shipping damage
+39,552,2026-03-31,495.0,Defective unit
+40,579,2026-04-21,39.0,Shipping damage
+41,633,2026-06-24,495.0,Changed mind
+42,645,2026-07-27,495.0,Changed mind
+43,648,2026-07-21,199.2,Shipping damage
+44,654,2026-06-17,118.0,Ordered by mistake
+45,676,2026-07-04,124.5,Changed mind
+46,688,2026-04-20,495.0,Shipping damage
+47,689,2026-06-21,495.0,Shipping damage
+48,722,2026-07-27,495.0,Defective unit
+49,726,2026-04-05,495.0,Defective unit
+50,760,2026-06-22,495.0,Ordered by mistake
+51,761,2026-07-14,247.5,Shipping damage
+52,762,2026-05-12,59.0,Defective unit
+53,765,2026-07-11,495.0,Defective unit
+54,773,2026-02-19,495.0,Changed mind
+55,790,2026-05-11,247.5,Changed mind
+56,806,2026-07-09,445.5,Ordered by mistake
+57,809,2026-06-30,247.5,Changed mind
+58,812,2026-05-12,495.0,Shipping damage
+59,818,2026-07-18,59.0,No results
+60,834,2026-06-17,59.0,Ordered by mistake
+61,839,2026-03-29,495.0,Ordered by mistake
+62,846,2026-05-02,249.0,Changed mind
+63,849,2026-02-05,495.0,Defective unit
+64,851,2026-05-30,445.5,Shipping damage
+65,852,2026-05-07,105.83,No results
+66,858,2026-04-05,247.5,Shipping damage
+67,864,2026-06-17,495.0,Changed mind
+68,874,2026-07-15,495.0,No results
+69,876,2026-05-14,249.0,Defective unit
+70,879,2026-06-19,39.0,No results
+71,888,2026-05-18,420.75,Defective unit
+72,889,2026-07-23,249.0,Ordered by mistake
+73,900,2026-07-12,495.0,No results
+74,902,2026-05-17,495.0,Defective unit
+75,903,2026-03-19,495.0,No results
+76,912,2026-03-22,247.5,Changed mind
+77,947,2026-07-19,247.5,Changed mind
+78,978,2026-07-21,445.5,Defective unit
+79,985,2026-04-05,59.0,Shipping damage
+80,995,2026-06-28,495.0,No results
+81,1005,2026-01-24,495.0,Shipping damage
+82,1015,2026-03-27,495.0,Shipping damage
+83,1021,2026-06-04,59.0,Ordered by mistake
+84,1031,2026-05-29,495.0,Shipping damage
+85,1037,2026-06-24,106.2,Shipping damage
+86,1046,2026-03-24,396.0,Ordered by mistake
+87,1069,2026-05-15,59.0,Changed mind
+88,1087,2026-06-13,118.0,Ordered by mistake
+89,1105,2026-03-23,495.0,Defective unit
+90,1110,2026-04-04,495.0,Defective unit
+91,1130,2026-07-26,249.0,Shipping damage
+92,1154,2026-03-17,112.05,Ordered by mistake
+93,1211,2026-07-31,249.0,Changed mind
+94,1235,2026-05-02,495.0,Changed mind
+95,1238,2026-03-08,495.0,Shipping damage
+96,1273,2026-07-11,19.5,Ordered by mistake
+97,1282,2026-07-28,249.0,Ordered by mistake
+98,1287,2026-06-19,495.0,Changed mind
+99,1301,2026-04-25,495.0,Changed mind
+100,1320,2026-06-09,495.0,Changed mind
+101,1345,2026-06-18,495.0,Changed mind
+102,1371,2026-07-10,495.0,No results
+103,1381,2026-07-24,495.0,Shipping damage
+104,1386,2026-07-27,495.0,Changed mind
+105,1388,2026-07-21,495.0,Changed mind
+106,1395,2026-06-27,495.0,Changed mind
+107,1402,2026-07-07,495.0,Ordered by mistake
+108,1420,2026-05-01,247.5,No results
+109,1440,2026-06-08,495.0,No results
+110,1473,2026-06-26,495.0,Shipping damage
+111,1483,2026-06-06,495.0,Ordered by mistake
+112,1495,2026-05-14,247.5,Defective unit
+113,1525,2026-06-22,247.5,Shipping damage
+114,1548,2026-07-06,199.2,Defective unit
+115,1550,2026-04-17,249.0,No results
+116,1557,2026-07-29,495.0,Ordered by mistake
+117,1568,2026-04-28,59.0,Changed mind
+118,1584,2026-04-25,29.5,Ordered by mistake
+119,1598,2026-07-26,495.0,Defective unit
+120,1607,2026-07-07,495.0,No results
+121,1610,2026-02-11,396.0,Changed mind
+122,1616,2026-02-11,211.65,Defective unit
+123,1618,2026-07-14,495.0,No results
+124,1623,2026-07-27,249.0,No results
+125,1628,2026-05-24,423.3,Shipping damage
+126,1659,2026-07-16,29.5,No results
+127,1694,2026-05-12,249.0,Shipping damage
+128,1708,2026-07-26,498.0,Shipping damage
+129,1759,2026-05-18,495.0,Shipping damage
+130,1762,2026-07-31,445.5,Defective unit
+131,1802,2026-01-16,495.0,Ordered by mistake
+132,1815,2026-07-11,59.0,No results
+133,1848,2026-03-24,249.0,No results
+134,1866,2026-04-01,495.0,Changed mind
+135,1878,2026-07-20,396.0,Shipping damage
+136,1879,2026-06-11,59.0,No results
+137,1948,2026-05-01,445.5,No results
+138,1956,2026-05-12,495.0,Changed mind
+139,1966,2026-03-26,249.0,Changed mind
+140,2003,2026-06-08,249.0,Changed mind
+141,2012,2026-07-12,495.0,Ordered by mistake
+142,2014,2026-06-08,495.0,No results
+143,2065,2026-07-19,50.15,Ordered by mistake
+144,2074,2026-06-22,420.75,Shipping damage
+145,2094,2026-04-30,495.0,Defective unit
+146,2098,2026-02-23,396.0,Shipping damage
+147,2123,2026-06-18,495.0,Shipping damage
+148,2143,2026-03-23,445.5,No results
+149,2179,2026-05-11,495.0,Changed mind
+150,2197,2026-05-13,495.0,Defective unit
+151,2199,2026-04-19,495.0,Defective unit
+152,2209,2026-07-13,495.0,Defective unit
+153,2214,2026-06-23,495.0,Ordered by mistake
+154,2232,2026-05-19,495.0,No results
+155,2233,2026-02-08,35.1,Defective unit
+156,2249,2026-07-13,495.0,Defective unit
+157,2250,2026-03-29,495.0,Ordered by mistake
+158,2261,2026-04-17,396.0,No results
+159,2270,2026-04-13,495.0,Defective unit
+160,2273,2026-07-23,59.0,Shipping damage
+161,2278,2026-03-18,124.5,Defective unit
+162,2280,2026-07-19,495.0,Defective unit
+163,2294,2026-02-01,495.0,Ordered by mistake
+164,2316,2026-02-09,247.5,No results
+165,2343,2026-05-23,118.0,Changed mind
+166,2356,2026-05-11,445.5,Shipping damage
+167,2398,2026-03-04,249.0,Changed mind
+168,2400,2026-07-21,495.0,Defective unit
+169,2413,2026-06-01,495.0,Ordered by mistake
+170,2421,2026-07-20,495.0,Defective unit
+171,2458,2026-07-18,210.38,Defective unit
+172,2462,2026-04-20,495.0,Shipping damage
+173,2469,2026-05-16,445.5,Shipping damage
+174,2470,2026-04-01,445.5,Changed mind
+175,2496,2026-07-02,495.0,Changed mind
+176,2503,2026-06-21,50.15,Ordered by mistake
+177,2507,2026-04-02,495.0,No results
+178,2519,2026-06-17,25.07,Ordered by mistake
+179,2525,2026-07-15,247.5,Ordered by mistake
+180,2535,2026-07-16,495.0,Shipping damage
+181,2558,2026-07-17,495.0,No results
+182,2588,2026-01-30,445.5,No results
+183,2594,2026-05-23,247.5,Defective unit
+184,2615,2026-07-29,445.5,No results
+185,2647,2026-07-28,495.0,Shipping damage
+186,2649,2026-07-08,445.5,Changed mind
+187,2670,2026-07-22,495.0,No results
+188,2690,2026-05-19,445.5,Ordered by mistake
+189,2697,2026-07-20,495.0,Ordered by mistake
+190,2704,2026-07-04,396.0,Shipping damage
+191,2709,2026-05-17,59.0,Changed mind
+192,2732,2026-05-29,495.0,Defective unit
+193,2741,2026-06-06,249.0,Changed mind
+194,2751,2026-06-13,495.0,Defective unit
+195,2781,2026-07-19,495.0,Changed mind
+196,2799,2026-07-07,247.5,No results
+197,2812,2026-05-10,249.0,Shipping damage
+198,2827,2026-05-06,420.75,No results
+199,2828,2026-06-14,78.0,Shipping damage
+200,2845,2026-07-26,396.0,Ordered by mistake
+201,2850,2026-05-24,495.0,No results
+202,2942,2026-04-05,50.15,Shipping damage
+203,2961,2026-05-28,495.0,Changed mind
+204,2986,2026-07-12,495.0,Changed mind
+205,3013,2026-05-02,495.0,Defective unit
+206,3034,2026-05-27,59.0,Changed mind
+207,3086,2026-07-29,495.0,Shipping damage
+208,3110,2026-05-31,247.5,Ordered by mistake
+209,3114,2026-04-30,124.5,Ordered by mistake
+210,3122,2026-06-10,495.0,Defective unit
+211,3180,2026-06-21,59.0,Ordered by mistake
+212,3235,2026-05-02,495.0,Shipping damage
+213,3295,2026-07-23,211.65,Defective unit
+214,3312,2026-05-06,495.0,Changed mind
+215,3314,2026-07-28,495.0,Shipping damage
+216,3335,2026-03-28,495.0,Defective unit
+217,3345,2026-07-07,247.5,Changed mind
+218,3360,2026-05-31,495.0,No results
+219,3363,2026-07-26,495.0,Shipping damage
+220,3372,2026-06-08,249.0,Changed mind
+221,3383,2026-06-02,249.0,Ordered by mistake
+222,3385,2026-06-23,495.0,Changed mind
+223,3420,2026-06-15,495.0,No results
+224,3441,2026-07-27,420.75,Shipping damage
+225,3448,2026-07-21,210.38,Shipping damage
+226,3454,2026-05-08,495.0,Shipping damage
+227,3463,2026-02-16,124.5,Shipping damage
+228,3492,2026-06-08,224.1,Defective unit
+229,3535,2026-06-04,495.0,Ordered by mistake
+230,3573,2026-01-27,495.0,Ordered by mistake
+231,3575,2026-05-28,249.0,No results
+232,3578,2026-07-22,495.0,Defective unit
+233,3585,2026-04-03,59.0,Ordered by mistake
+234,3599,2026-02-17,495.0,No results
+235,3625,2026-06-27,222.75,Defective unit
+236,3634,2026-03-14,249.0,Shipping damage
+237,3639,2026-05-06,495.0,Shipping damage
+238,3669,2026-04-04,495.0,Changed mind
+239,3671,2026-06-06,495.0,Changed mind
+240,3682,2026-06-06,247.5,No results
+241,3709,2026-04-27,495.0,Shipping damage
+242,3710,2026-05-08,249.0,Shipping damage
+243,3728,2026-05-25,495.0,Defective unit
+244,3729,2026-04-13,495.0,Changed mind
+245,3735,2026-06-10,495.0,Ordered by mistake
+246,3761,2026-07-29,210.38,Shipping damage
+247,3763,2026-07-31,78.0,No results
+248,3770,2026-02-10,495.0,Shipping damage
+249,3771,2026-04-25,29.5,Shipping damage
+250,3774,2026-06-25,495.0,No results
+251,3776,2026-05-20,198.0,Changed mind
+252,3778,2026-02-16,495.0,Defective unit
+253,3781,2026-03-28,495.0,Changed mind
+254,3794,2026-05-10,249.0,Shipping damage
+255,3797,2026-06-04,420.75,Ordered by mistake
+256,3811,2026-06-24,495.0,Changed mind
+257,3812,2026-07-29,199.2,No results
+258,3825,2026-05-27,495.0,Shipping damage
+259,3834,2026-06-10,495.0,Ordered by mistake
+260,3853,2026-06-09,495.0,No results
+261,3871,2026-07-18,249.0,Changed mind
+262,3896,2026-05-21,495.0,Shipping damage
+263,3915,2026-05-12,249.0,Changed mind
+264,3929,2026-07-27,495.0,Changed mind
+265,3943,2026-06-19,495.0,Defective unit
+266,3944,2026-07-19,495.0,Changed mind
+267,3949,2026-07-29,420.75,No results
+268,3958,2026-06-17,495.0,Ordered by mistake
+269,3977,2026-05-25,495.0,No results
+270,4004,2026-05-07,247.5,Shipping damage
+271,4016,2026-02-10,495.0,Changed mind
+272,4020,2026-04-08,247.5,Defective unit
+273,4021,2026-03-24,495.0,No results
+274,4049,2026-07-23,445.5,Defective unit
+275,4083,2026-03-01,495.0,No results
+276,4086,2026-07-10,445.5,Ordered by mistake
+277,4110,2026-07-04,247.5,Changed mind
+278,4114,2026-03-09,59.0,No results
+279,4178,2026-04-16,495.0,Ordered by mistake
+280,4216,2026-05-28,124.5,No results
+281,4223,2026-07-20,495.0,Ordered by mistake
+282,4235,2026-07-18,19.5,No results
+283,4252,2026-05-13,247.5,Defective unit
+284,4267,2026-05-16,445.5,Defective unit
+285,4275,2026-05-09,495.0,Defective unit
+286,4286,2026-06-02,495.0,Shipping damage
+287,4305,2026-07-09,247.5,Ordered by mistake
