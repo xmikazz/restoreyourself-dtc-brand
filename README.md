@@ -78,11 +78,11 @@ no channel clears the commonly-cited healthy 3:1 threshold - ratios range from 1
 
 **Assumptions & Limitations**
 
-Signup = first purchase: this dataset treats account signup and first order as the same event. In real data these can differ, and CAC/cohort logic would need to anchor on whichever timestamp actually represents acquisition.
-Refunds treated as pure loss: contribution margin assumes a refunded order loses both the revenue and the original unit cost, with no assumption of inventory recovery — conservative, since real recovery depends on whether the item is returned and resellable.
-Refund-adjusted CAC excludes only first-order refunds: a customer who refunds a later order still counts as acquired — the adjustment targets whether the acquisition itself stuck.
-Cohort retention is right-censored for the most recent 1-2 months — those cohorts haven't had time to show full repeat behavior yet.
-Later-month payback averages are based on small sample sizes (e.g. Affiliate month 4 = 4 customers) and shouldn't be over-interpreted.
+- Signup = first purchase: this dataset treats account signup and first order as the same event. In real data these can differ, and CAC/cohort logic would need to anchor on whichever timestamp actually represents acquisition.
+- Refunds treated as pure loss: contribution margin assumes a refunded order loses both the revenue and the original unit cost, with no assumption of inventory recovery - conservative, since real recovery depends on whether the item is returned and resellable.
+- Refund-adjusted CAC excludes only first-order refunds: a customer who refunds a later order still counts as acquired - the adjustment targets whether the acquisition itself stuck.
+- Cohort retention is right-censored for the most recent 1-2 months - those cohorts haven't had time to show full repeat behavior yet.
+- Later-month payback averages are based on small sample sizes (e.g. Affiliate month 4 = 4 customers) and shouldn't be over-interpreted.
 ## Schema
 
 - `customers` — customer_id, signup_date, acquisition_channel, region
