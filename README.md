@@ -5,7 +5,7 @@ A SQL project analyzing customer acquisition, retention, and profitability for
 a hair-regrowth device plus repeat-purchase accessories (serum, replacement pads,
 a red light face mask).
 
-The dataset is synthetic — built to showcase the kind of growth analytics
+The dataset is synthetic - built to showcase the kind of growth analytics
 questions a DTC e-commerce brand asks: which channels are actually worth the
 spend, how well customers retain, and how long it takes for a channel to pay
 for itself.
