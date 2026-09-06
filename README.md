@@ -64,9 +64,25 @@ no channel clears the commonly-cited healthy 3:1 threshold - ratios range from 1
 
 
 
-**Payback period:** in progress — cumulative contribution margin per customer,
-by channel, compared against that channel's CAC to find the break-even month.
+**Payback period:** Payback period: effectively immediate for every paid channel - average month-0 margin per customer already exceeds that channel's CAC (e.g. Affiliate: $200 month-0 margin vs. $159 CAC; Meta: $197 vs. $184). This is because the core device carries high margin on its own, so a single first purchase alone typically covers acquisition cost. Fast payback means acquisition risk is low across channels, but it's a separate finding from LTV:CAC — clearing CAC quickly doesn't mean a channel is profitable long-term, since that depends on repeat-purchase behavior, which stays weak (as shown by the LTV:CAC ratios above).
 
+<img width="1265" height="1157" alt="image" src="https://github.com/user-attachments/assets/34dfe29d-5a6d-4cce-92ca-5d6bf5d5347b" />
+
+
+
+
+
+
+
+
+
+**Assumptions & Limitations**
+
+Signup = first purchase: this dataset treats account signup and first order as the same event. In real data these can differ, and CAC/cohort logic would need to anchor on whichever timestamp actually represents acquisition.
+Refunds treated as pure loss: contribution margin assumes a refunded order loses both the revenue and the original unit cost, with no assumption of inventory recovery — conservative, since real recovery depends on whether the item is returned and resellable.
+Refund-adjusted CAC excludes only first-order refunds: a customer who refunds a later order still counts as acquired — the adjustment targets whether the acquisition itself stuck.
+Cohort retention is right-censored for the most recent 1-2 months — those cohorts haven't had time to show full repeat behavior yet.
+Later-month payback averages are based on small sample sizes (e.g. Affiliate month 4 = 4 customers) and shouldn't be over-interpreted.
 ## Schema
 
 - `customers` — customer_id, signup_date, acquisition_channel, region
